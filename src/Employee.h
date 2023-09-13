@@ -137,9 +137,10 @@ public:
     double __Calculate_Salary();   // see function specs in the PDF
 };
 
-
-static std::vector<Student> students;// an array of all students
-static std::vector<Staff> staffs;    //an array of all staff members
+// 2 variables below have external linkage
+// https://learn.microsoft.com/en-us/cpp/cpp/program-and-linkage-cpp?view=msvc-170
+extern std::vector<Student> students;// an array of all students
+extern std::vector<Staff> staffs;    //an array of all staff members
 
 // a subclass used to retrieve lists of students and staff saved to the system
 class Student_Staff {
@@ -156,8 +157,7 @@ public:
 
     void
     Highest_GPA();   // This function accepts an array of students and size. Then prints out the information of the one who has the highest GPA
-    int
-    N_of_UnderGrad(); // This function accept an array of students, and size and returns the total number of undergraduate students
+    int N_of_UnderGrad(); // This function accept an array of students, and size and returns the total number of undergraduate students
     void Same_Hire_Year(
             const int);// This function accepts an array of staff, and size and a hiring year and prints out the name of all staff who have been hired in that year.
     std::vector<Student> getStudents();

@@ -12,6 +12,10 @@
 #include <sstream>
 #include <algorithm>
 
+std::vector<Student> students;// an array of all students
+std::vector<Staff> staffs;    //an array of all staff members
+
+
 
 Student::Student(std::string firstname, std::string lastname,int ID, std::string DOB, float GPA, int startyear, float completedcredits, char program, bool isLoaded){
         this->_fName = firstname;

@@ -1,0 +1,75 @@
+
+<	cpp:S1481Ò"unused variable 'sorted_arrGPA'(ÊŒ¶8ê‡´²¨1
+t	cpp:S5276Ñ"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(ÉÐþÏ8ë‡´²¨1
+t	cpp:S5276ç"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(ÉÐþÏ8ë‡´²¨1
+t	cpp:S5276õ"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(’©«¢8ë‡´²¨1
+y	cpp:S5276†"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(¡¶Õñüÿÿÿÿ8ë‡´²¨1
+y	cpp:S5276‡"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(Êï¨ñÿÿÿÿÿ8ë‡´²¨1
+=	cpp:S5421"!Global variables should be const.(ä¡ðä8û‡´²¨1
+B	cpp:S5421"!Global variables should be const.(•›Æëøÿÿÿÿ8û‡´²¨1
+ƒ	cpp:S3230"bDo not assign data members in a constructor. Initialize member "_fName" in an initialization list.(ìú‹°øÿÿÿÿ8û‡´²¨1
+ƒ	cpp:S3230"bDo not assign data members in a constructor. Initialize member "_lName" in an initialization list.(œöÖ¿ýÿÿÿÿ8û‡´²¨1
+‚	cpp:S3230"fDo not assign data members in a constructor. Initialize member "_studentID" in an initialization list.(ÀûŒ’8û‡´²¨1
+	cpp:S3230"`Do not assign data members in a constructor. Initialize member "_DOB" in an initialization list.(’îµ‘úÿÿÿÿ8û‡´²¨1
+	cpp:S3230"`Do not assign data members in a constructor. Initialize member "_GPA" in an initialization list.(‚•ï¢ÿÿÿÿÿ8û‡´²¨1
+‡	cpp:S3230"fDo not assign data members in a constructor. Initialize member "_startyear" in an initialization list.(ç±ä¦ûÿÿÿÿ8û‡´²¨1
+‰	cpp:S3230"mDo not assign data members in a constructor. Initialize member "_completedCredits" in an initialization list.(Øäíç8û‡´²¨1
+…	cpp:S3230"dDo not assign data members in a constructor. Initialize member "_program" in an initialization list.(ðúìÌúÿÿÿÿ8û‡´²¨1
+a	cpp:S1238"@Pass expensive to copy object "firstname" by reference to const.(à…– þÿÿÿÿ8ü‡´²¨1
+`	cpp:S1238"?Pass expensive to copy object "lastname" by reference to const.(à…– þÿÿÿÿ8ü‡´²¨1
+[	cpp:S1238":Pass expensive to copy object "DOB" by reference to const.(à…– þÿÿÿÿ8ü‡´²¨1
+gcpp:S107"GThis function has 9 parameters, which is greater than the 7 authorized.(à…– þÿÿÿÿ8ý‡´²¨1
+E	cpp:S5817#")This function should be declared "const".(„„¼Ð8ý‡´²¨1
+E	cpp:S5817&")This function should be declared "const".(×‚¹8ý‡´²¨1
+E	cpp:S5817)")This function should be declared "const".(®àÓÏ8þ‡´²¨1
+E	cpp:S5817,")This function should be declared "const".(¨¾³•8þ‡´²¨1
+E	cpp:S5817/")This function should be declared "const".(ÛÒÇý8þ‡´²¨1
+J	cpp:S58172")This function should be declared "const".(áÔË¶ûÿÿÿÿ8ÿ‡´²¨1
+D	cpp:S58175")This function should be declared "const".(èŽ¬ 8ÿ‡´²¨1
+J	cpp:S58178")This function should be declared "const".(«‘­Ùøÿÿÿÿ8ÿ‡´²¨1
+d	cpp:S1238<"CPass expensive to copy object "newFirstName" by reference to const.(â•êÍþÿÿÿÿ8€ˆ´²¨1
+c	cpp:S1238?"BPass expensive to copy object "newLastName" by reference to const.(ªÿûÿÿÿÿ8€ˆ´²¨1
+E	cpp:S5817P")This function should be declared "const".(ŸÒÈ8ƒˆ´²¨1
+E	cpp:S5817]")This function should be declared "const".(¾üŠ™8„ˆ´²¨1
+J	cpp:S5817o")This function should be declared "const".(çÜ˜öÿÿÿÿÿ8†ˆ´²¨1
+r	cpp:S3490~"VUse "=default" instead of the default implementation of this special member functions.(Òã¬ù8‹ˆ´²¨1
+‰	cpp:S3230ˆ"gDo not assign data members in a constructor. Initialize member "__firstName" in an initialization list.(Âøñþÿÿÿÿ8Œˆ´²¨1
+ˆ	cpp:S3230‰"fDo not assign data members in a constructor. Initialize member "__lastName" in an initialization list.(÷ÌŠàüÿÿÿÿ8Œˆ´²¨1
+‚	cpp:S3230Š"`Do not assign data members in a constructor. Initialize member "__ID" in an initialization list.(þÍ·þÿÿÿÿ8Œˆ´²¨1
+ƒ	cpp:S3230‹"fDo not assign data members in a constructor. Initialize member "__hireDate" in an initialization list.(—óÆ©8Œˆ´²¨1
+„	cpp:S3230Œ"gDo not assign data members in a constructor. Initialize member "__bonusCode" in an initialization list.(ÁûŠý8Œˆ´²¨1
+ˆ	cpp:S3230"kDo not assign data members in a constructor. Initialize member "__currentSalary" in an initialization list.(‚ËÜ8Œˆ´²¨1
+^	cpp:S1238‡"<Pass expensive to copy object "FName" by reference to const.(£Ëöúþÿÿÿÿ8Œˆ´²¨1
+^	cpp:S1238‡"<Pass expensive to copy object "LName" by reference to const.(£Ëöúþÿÿÿÿ8Œˆ´²¨1
+K	cpp:S5817“")This function should be declared "const".(»’³Íüÿÿÿÿ8ˆ´²¨1
+K	cpp:S5817–")This function should be declared "const".(ØÓÍ¼øÿÿÿÿ8Žˆ´²¨1
+K	cpp:S5817š")This function should be declared "const".(¦²Ž‹ùÿÿÿÿ8Žˆ´²¨1
+K	cpp:S5817ž")This function should be declared "const".(‘­ÞÍýÿÿÿÿ8Žˆ´²¨1
+K	cpp:S5817¡")This function should be declared "const".(‘ƒŠÿýÿÿÿÿ8Žˆ´²¨1
+F	cpp:S5817¤")This function should be declared "const".(ðÂÿÒ8ˆ´²¨1
+]	cpp:S1238©"@Pass expensive to copy object "firstName" by reference to const.(Ý³Ú8ˆ´²¨1
+a	cpp:S1238¬"?Pass expensive to copy object "lastName" by reference to const.(¤Êîòøÿÿÿÿ8ˆ´²¨1
+F	cpp:S5817Ç")This function should be declared "const".(œÈæª8—ˆ´²¨1
+s	cpp:S3490á"VUse "=default" instead of the default implementation of this special member functions.(Ë…Êë8™ˆ´²¨1
+v	cpp:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 47 to the 25 allowed.(ÐµÉÙúÿÿÿÿ8šˆ´²¨1
+a	cpp:S1238ê"?Pass expensive to copy object "filename" by reference to const.(ÐµÉÙúÿÿÿÿ8›ˆ´²¨1
+ncpp:S134õ"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¤¬ˆøÿÿÿÿ8›ˆ´²¨1
+ncpp:S134¢"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¤¬ˆøÿÿÿÿ8›ˆ´²¨1
+I	cpp:S5827‡"'Replace the redundant type with "auto".(ÙøÉ¹ûÿÿÿÿ8Ÿˆ´²¨1
+ˆ	cpp:S5350‡"fMake the type of this variable a pointer-to-const. The current type of "new_staff" is "class Staff *".(ÙøÉ¹ûÿÿÿÿ8Ÿˆ´²¨1
+s	cpp:S5025‡"QReplace the use of "new" with an operation that automatically manages the memory.(ÙøÉ¹ûÿÿÿÿ8£ˆ´²¨1
+I	cpp:S5827¸"'Replace the redundant type with "auto".(ÙšªÏùÿÿÿÿ8¦ˆ´²¨1
+Œ	cpp:S5350¸"jMake the type of this variable a pointer-to-const. The current type of "new_student" is "class Student *".(ÙšªÏùÿÿÿÿ8¦ˆ´²¨1
+s	cpp:S5025¸"QReplace the use of "new" with an operation that automatically manages the memory.(ÙšªÏùÿÿÿÿ8«ˆ´²¨1
+K	cpp:S5817Ð")This function should be declared "const".(²Œ«¦þÿÿÿÿ8®ˆ´²¨1
+M	cpp:S1659Ò"0Define each identifier in a dedicated statement.(ÊŒ¶8®ˆ´²¨1
+Z	cpp:S5945Ò"=Use "std::array" or "std::vector" instead of a C-style array.(ÊŒ¶8¯ˆ´²¨1
+Z	cpp:S5945Ò"=Use "std::array" or "std::vector" instead of a C-style array.(ÊŒ¶8°ˆ´²¨1
+F	cpp:S5817å")This function should be declared "const".(¦°æ‡8²ˆ´²¨1
+K	cpp:S5817ô")This function should be declared "const".(Æï¯ùÿÿÿÿ8³ˆ´²¨1
+N	cpp:S1048ƒ"1Do not throw uncaught exceptions in a destructor.(æÇ•¢8¹ˆ´²¨1
+S	cpp:S1048„"1Do not throw uncaught exceptions in a destructor.(Úºçÿÿÿÿÿ8¹ˆ´²¨1
+E	cpp:S1110„"#Remove these redundant parentheses.(Úºçÿÿÿÿÿ8ºˆ´²¨1
+F	cpp:S5817©")This function should be declared "const".(¤ó™à8Ìˆ´²¨1
+K	cpp:S5817­")This function should be declared "const".(½¿á¼ýÿÿÿÿ8Ìˆ´²¨1
+?cpp:S125…"Remove the commented out code.(¤Ö²ëúÿÿÿÿ8Ñ§´²¨1

@@ -9,6 +9,10 @@
 #include <iomanip>
 #include <limits>
 #include <memory>
+
+//extern std::vector<Student> students;// an array of all students
+//extern std::vector<Staff> staffs;    //an array of all staff members
+
 #define MAX numeric_limits<streamsize>::max()
 using namespace std;
 void createStudent();
